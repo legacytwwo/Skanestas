@@ -1,0 +1,13 @@
+.ticker-container {
+  @apply w-[20%] h-[65%];
+  @apply flex flex-col gap-[20px];
+  @apply justify-center items-center;
+  @apply bg-gray-100 rounded-[10px] shadow-xl shadow-gray-300;
+}
+
+.chart-container {
+  @apply w-[70%] h-[85%];
+  @apply flex flex-col gap-[20px];
+  @apply justify-center items-center;
+  @apply bg-gray-100 rounded-[10px] shadow-xl shadow-gray-300;
+}
